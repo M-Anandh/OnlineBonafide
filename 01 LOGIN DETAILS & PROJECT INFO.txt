@@ -1,0 +1,25 @@
+**Database Name: bonafidesystem**
+
+**Developed by Nijanthan**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Hod Login Details**
+
+Email   : hod@gmail.com
+Password: hod@123
+
+**Staff Login Details**
+
+Email   : staff@gmail.com
+Password: Staff@123
+
+**Student Login**
+
+Rollno   : 19bca002
+Password: 19bca002
+
+
+
+
